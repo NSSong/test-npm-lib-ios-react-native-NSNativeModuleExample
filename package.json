@@ -1,0 +1,22 @@
+{
+  "name": "react-native-bgnativemoduleexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSSong/test-react-native-NSNativeModuleExample.git"
+  },
+  "keywords": [
+    "ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSSong/test-react-native-NSNativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/NSSong/test-react-native-NSNativeModuleExample#readme"
+}
